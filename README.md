@@ -28,6 +28,6 @@ The C standard library is allowed
 The prototypes of all the functions were included in the header file called monty.h
 All the header files are include guarded
 Instruction given:
-To use the following data structures for this project, and to also include them in the header file.O
+Please I To use the following data structures for this project, and to also include them in the header file.
 
 
